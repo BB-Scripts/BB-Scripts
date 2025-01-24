@@ -1,16 +1,13 @@
-## Hi there 👋
+# Willkommen bei BB-Scripts!
 
-<!--
-**BB-Scripts/BB-Scripts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Wir sind **BB-Scripts**, ein Entwicklerteam, das sich auf die Erstellung von maßgeschneiderten Scripts und Tools für verschiedene Plattformen spezialisiert hat. Unser Ziel ist es, leistungsstarke und benutzerfreundliche Lösungen zu schaffen, die die Entwicklung und das Benutzererlebnis verbessern.
 
-Here are some ideas to get you started:
+![BB-Scripts Logo](https://example.com/dein-bild.png](https://r2.fivemanage.com/sCsmI163imrqSgUxWLkCz/images/bb_logo.png)  <!-- Ersetze dies mit dem tatsächlichen Link zu deinem Bild -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Unsere Links
+
+- [Website](soon)  <!-- Ersetze dies mit dem tatsächlichen Link zur Website -->
+- [GitHub Repository](https://github.com/BB-Scripts)  <!-- Ersetze dies mit deinem GitHub-Repo-Link -->
+- [Discord Server](soon)  <!-- Ersetze dies mit deinem Discord-Link -->
+
+Danke, dass du vorbeischaust! Für weitere Informationen oder bei Fragen, zögere nicht, uns zu kontaktieren!
