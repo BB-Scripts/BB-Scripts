@@ -1,8 +1,6 @@
 # Willkommen bei BB-Scripts!
-
+![BB-Scripts Logo](https://r2.fivemanage.com/sCsmI163imrqSgUxWLkCz/images/bb_logo.png)
 Wir sind **BB-Scripts**, ein Entwicklerteam, das sich auf die Erstellung von maßgeschneiderten Scripts und Tools für verschiedene Plattformen spezialisiert hat. Unser Ziel ist es, leistungsstarke und benutzerfreundliche Lösungen zu schaffen, die die Entwicklung und das Benutzererlebnis verbessern.
-
-[BB-Scripts Logo](https://example.com/dein-bild.png](https://r2.fivemanage.com/sCsmI163imrqSgUxWLkCz/images/bb_logo.png)  <!-- Ersetze dies mit dem tatsächlichen Link zu deinem Bild -->
 
 ## Unsere Links
 
